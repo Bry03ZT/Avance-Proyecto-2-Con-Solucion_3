@@ -1,7 +1,3 @@
-Aquí tienes el documento completo transcrito literalmente, aplicando el estilo de sintaxis exacto que me indicaste para el diagrama de Entidad-Relación en Mermaid (entidades en mayúsculas, formato limpio) y adaptando también el diagrama de casos de uso a ese mismo estándar visual:
-
----
-
 # UNIVERSIDAD TECNOLÓGICA DEL PERÚ
 
 **Curso Integrador I: Sistemas Software**
@@ -439,17 +435,14 @@ El diseño será claro y fácil de usar, pensado para usuarios con conocimientos
 
 ## 4. Lean Canvas
 
-| **Problema** | **Solución** | **Propuesta de valor única** | **Ventaja Injusta** | **Segmento de Clientes** |
+| **Problema** | **Segmento de Clientes** | **Propuesta de valor única** | **Solución** | **Canales** |
 | --- | --- | --- | --- | --- |
-| "Desorden en ventas, mal control de stock, falta de reportes." | Sistema web en Java. | "Controla tus ventas e inventario de forma rápida y sencilla, evita pérdidas de stock y toma mejores decisiones sin conocimientos técnicos." | Simple, Barato, Enfocado en laptops | Pequeños negocios tecnológicos |
-| **Métricas Clave** | **Canales** |  |  |  |
-| Ventas registradas, Uso del sistema | "Instalación directa, recomendaciones" |  |  |  |
-
-| **Estructura de costos** | **Fuente de ingresos** |
-| --- | --- |
-| Desarrollo del sistema, Mantenimiento | Venta del sistema + soporte |
+| Desorden en ventas, mal control de stock, falta de reportes. | Pequeños negocios tecnológicos. | Controla tus ventas e inventario de forma rápida y sencilla, evita pérdidas de stock y toma mejores decisiones sin conocimientos técnicos. | Sistema web en Java. | Instalación directa, recomendaciones |
+| **Métricas Clave** | **Estructura de costos** | **Fuente de ingresos** | **Ventaja Injusta** |
+| Ventas registradas, Uso del sistema | Desarrollo del sistema, Mantenimiento | Venta del sistema + soporte | Simple, Barato, Enfocado en laptops |
 
 ---
+
 
 ## 5. Mockups
 
